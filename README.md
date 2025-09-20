@@ -34,10 +34,10 @@ pip install -r requirements.txt
 ```
 ### 3. Run the notebooks or scripts to explore insights:
 
-Jupyter Notebook: jupyter notebook Netflix_EDA.ipynb  
-Python script: python analyze_netflix.py  
+**Jupyter Notebook: jupyter notebook Netflix_EDA.ipynb**  
+**Python script: python analyze_netflix.py** 
 
-##📄 License
+## 📄 License
 
 This project is open-source and free to use under the MIT License.
 
